@@ -51,3 +51,16 @@
   * [Landing-page](https://github.com/MXXXVETON/eco-school-land-final)
   * [Rebuild-project-with-Bootstrap4](https://github.com/MXXXVETON/directoffice)
   * [Dance-school](https://github.com/MXXXVETON/dance-school)
+
+  ### [My Freelance project / and others](#my-freelance-project)
+
+  * [Landing-page](https://github.com/MXXXVETON/eco-school-land-final)
+  * [Rebuild-project-with-Bootstrap4](https://github.com/MXXXVETON/directoffice)
+  * [Dance-school](https://github.com/MXXXVETON/dance-school)
+
+### [Education](#education)
+  My education be same courses on [YouTube chenal "Владилен Минин"](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw). Online learning on popular web resource *[htmlbook](http://htmlbook.ru/html5), [w3s](https://www.w3schools.com/), [learn.javascript](https://learn.javascript.ru/)*.
+  And helped to understand difficult moments, my brother - *practitioner specialized front-end dev.*
+
+### [English](#english)
+- pre-intermediate
