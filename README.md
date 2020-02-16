@@ -1,1 +1,1 @@
-<https://a-klimovich.github.io/rsschool-cv/index.html>
+ <https://a-klimovich.github.io/rsschool-cv/>
